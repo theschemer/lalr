@@ -1,13 +1,11 @@
-(("name" . "ballista")
-("version" . "0.5.6")
-("description" . "Ballista is a Express style web framwork for Igropyr")
+(("name" . "lalr")
+("version" . "0.9.0")
+("description" . "LALR(1) parser generator")
 ("keywords"
-    ("Scheme" "web" "framework" "Igropyr"))
+    ("LALR" "parser" "generator"))
 ("author" 
-    ("guenchi"))
+    ("Mark Johnson"))
 ("private" . #f)
 ("scripts")
-("dependencies"
-    ("igropyr" . "0.2.12")
-    ("catapult" . "0.2.7"))
+("dependencies")
 ("devDependencies"))
